@@ -1,1 +1,3 @@
 # assdfasdfsdf
+
+install.packages("mice")
